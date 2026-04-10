@@ -1,4 +1,4 @@
-# SAé Mobile - React Native
+# SAE Mobile - React Native
 
 Un application React Native pour découvrir et explorer tous les projets SAé avec leurs informations, membres, notes et classements.
 
@@ -11,6 +11,8 @@ Un application React Native pour découvrir et explorer tous les projets SAé av
 - **Détail**: Page détaillée d'une SAé avec tous les groupes
 
 ### Installation
+
+La BDD exporté sert pour les données (mdp, quelques tests)
 
 ```bash
 cd sae-mobile-app
